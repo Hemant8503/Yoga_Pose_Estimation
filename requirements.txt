@@ -9,27 +9,27 @@ click==8.1.7
 colorama==0.4.6
 contourpy==1.2.1
 cycler==0.12.1
-filelock @ file
+filelock
 fonttools==4.51.0
 fsspec==2024.3.1
 gitdb==4.0.11
 GitPython==3.1.43
-gmpy2 @ file
-idna @ file
-Jinja2 @ file
+gmpy2
+idna
+Jinja2
 jsonschema==4.21.1
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.5
 markdown-it-py==3.0.0
-MarkupSafe @ file
+MarkupSafe
 matplotlib==3.8.4
 mdurl==0.1.2
-mkl-fft @ file
-mkl-random @ file
+mkl-fft
+mkl-random
 mkl-service==2.4.0
-mpmath @ file
-networkx @ file
-numpy @ file
+mpmath
+networkx
+numpy
 opencv-python==4.9.0.80
 packaging==24.0
 pandas==2.2.2
@@ -54,7 +54,7 @@ seaborn==0.13.2
 six==1.16.0
 smmap==5.0.1
 streamlit==1.33.0
-sympy @ file
+sympy
 tenacity==8.2.3
 thop==0.1.1.post2209072238
 toml==0.10.2
@@ -67,6 +67,6 @@ tqdm==4.66.2
 typing_extensions
 tzdata==2024.1
 ultralytics==8.2.2
-urllib3 @ file
+urllib3
 watchdog==4.0.0
 win-inet-pton
