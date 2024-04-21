@@ -24,7 +24,6 @@ markdown-it-py==3.0.0
 MarkupSafe
 matplotlib==3.8.4
 mdurl==0.1.2
-mkl-random
 mkl-service==2.4.0
 mpmath
 networkx
