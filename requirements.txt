@@ -68,3 +68,4 @@ urllib3
 watchdog==4.0.0
 win-inet-pton
 opencv-contrib-python-headless
+libGL.so.1
