@@ -49,15 +49,15 @@ pose_type = st.sidebar.selectbox(
 )
 
 if pose_type == 'Anjaneyasana':
-    st.image('img/Anjaneyasana.jpg')
+    st.image('Anjaneyasana.jpg')
 elif pose_type == 'Katichakrasana':
-    st.image('img/katichakrasana.png')
+    st.image('katichakrasana.png')
 elif pose_type == 'Padmasana':
-    st.image('img/padmasana.jpeg')
+    st.image('padmasana.jpeg')
 elif pose_type == 'Trikonasana':
-    st.image('img/trikonasana.jpg')
+    st.image('trikonasana.jpg')
 elif pose_type == 'Vrkasana':
-    st.image('img/vrkasana.jpg')
+    st.image('vrkasana.jpg')
 
 model = YOLO(r'best.pt')
 
