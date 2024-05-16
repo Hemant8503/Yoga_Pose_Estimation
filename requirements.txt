@@ -27,7 +27,7 @@ mdurl==0.1.2
 mpmath
 networkx
 numpy
-opencv-python==4.9.0.80
+opencv-python
 packaging==24.0
 pandas==2.2.2
 pillow
