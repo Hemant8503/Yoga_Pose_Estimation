@@ -50,7 +50,7 @@ scipy==1.13.0
 seaborn==0.13.2
 six==1.16.0
 smmap==5.0.1
-streamlit
+streamlit==1.33.0
 sympy
 tenacity==8.2.3
 thop==0.1.1.post2209072238
@@ -68,4 +68,3 @@ urllib3
 watchdog==4.0.0
 win-inet-pton
 opencv-contrib-python-headless
-tensorflow
