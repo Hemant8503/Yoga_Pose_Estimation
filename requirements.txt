@@ -70,3 +70,4 @@ win-inet-pton
 opencv-contrib-python-headless
 streamlit_webrtc
 tensorflow
+streamlit-server-state
