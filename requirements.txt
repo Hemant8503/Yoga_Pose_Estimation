@@ -67,5 +67,6 @@ ultralytics==8.2.2
 urllib3
 watchdog==4.0.0
 win-inet-pton
-
-
+opencv-contrib-python-headless
+streamlit_webrtc
+tensorflow
