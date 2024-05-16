@@ -59,7 +59,7 @@ elif pose_type == 'Trikonasana':
 elif pose_type == 'Vrkasana':
     st.image('img/vrkasana.jpg')
 
-model = YOLO(r'C:\Users\Hemant\PycharmProjects\Yoga_Pose_Estimation\best.pt')
+model = YOLO(r'best.pt')
 
 
 # image/video options
